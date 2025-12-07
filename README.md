@@ -172,8 +172,3 @@ This portfolio template is free to use and modify for personal and commercial pr
 For questions or issues, please contact:
 - **Email**: reacharya.nhce@gmail.com
 - **Location**: Bangalore, India
-
----
-
-**Note**: Remember to replace placeholder phone number (XXXXXXXXXX) with your actual contact number in the HTML file.
-
